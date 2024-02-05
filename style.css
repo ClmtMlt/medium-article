@@ -1,0 +1,46 @@
+h1 {
+  color: white;
+  font-size: 40px;
+}
+
+
+h2 {
+  color: #A0A0A0;
+  font-size: 25px;
+}
+
+body {
+  color: #494949;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #494949;
+  transition-duration: 0.5s;
+}
+
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  padding: 120px;
+  color: white;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.container {
+  width: 50em;
+  text-align: justify;
+  margin: auto;
+}
